@@ -1,0 +1,466 @@
+{
+    "results": [
+      {
+        "Category": "Electonics and Media",
+        "Make": "Audio and Speakers",
+        "Model": null
+      },
+      {
+        "Category": "Electonics and Media",
+        "Make": "Cellphone and Accessories",
+        "Model": null
+      },
+      {
+        "Category": "Electonics and Media",
+        "Make": "Cameras and Photography",
+        "Model": null
+      },
+      {
+        "Category": "Electonics and Media",
+        "Make": "TVs and Media players",
+        "Model": null
+      },
+      {
+        "Category": "Electonics and Media",
+        "Make": "Video games and Consoles",
+        "Model": null
+      },
+      {
+        "Category": "Electonics and Media",
+        "Make": "Computer and Accessories",
+        "Model": null
+      },
+      {
+        "Category": "Electonics and Media",
+        "Make": "Others - Electonics and Media",
+        "Model": null
+      },
+      
+      {
+        "Category": "Home and Garden",
+        "Make": "Furniture",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Household",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Appliances",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Kitchen and Dining",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Bathroom",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Tools and Machinery",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Home improvement",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Lawn and Garden",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Home decor",
+        "Model": null
+      },
+      {
+        "Category": "Home and Garden",
+        "Make": "Others - Home and Garden",
+        "Model": null
+      },
+
+      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Women's clothing",
+        "Model": null
+      },      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Men's clothing",
+        "Model": null
+      },      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Women's shoes",
+        "Model": null
+      },      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Men's shoes",
+        "Model": null
+      },      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Jewelry and accessories",
+        "Model": null
+      },      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Girl's clothing",
+        "Model": null
+      },      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Boy's clothing",
+        "Model": null
+      },
+      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Girl's shoes",
+        "Model": null
+      },      
+      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Boy's shoes",
+        "Model": null
+      },      
+      {
+        "Category": "Clothing, Shoes and Accessories",
+        "Make": "Others - Clothing, Shoes and Accessories",
+        "Model": null
+      },
+
+      
+      {
+        "Category": "Baby and Kids",
+        "Make": "Girl's accessories",
+        "Model": null
+      },      {
+        "Category": "Baby and Kids",
+        "Make": "Boy's accessories",
+        "Model": null
+      },      {
+        "Category": "Baby and Kids",
+        "Make": "Bathing and Skincare",
+        "Model": null
+      },      {
+        "Category": "Baby and Kids",
+        "Make": "Car seats and accessories",
+        "Model": null
+      },      {
+        "Category": "Baby and Kids",
+        "Make": "Diapering",
+        "Model": null
+      },      {
+        "Category": "Baby and Kids",
+        "Make": "Feeding",
+        "Model": null
+      },      {
+        "Category": "Baby and Kids",
+        "Make": "Baby gear",
+        "Model": null
+      },      {
+        "Category": "Baby and Kids",
+        "Make": "Health and Baby care",
+        "Model": null
+      },{
+        "Category": "Baby and Kids",
+        "Make": "Nursery furniture and Decoration",
+        "Model": null
+      },{
+        "Category": "Baby and Kids",
+        "Make": "Pregnancy and Maternity",
+        "Model": null
+      },{
+        "Category": "Baby and Kids",
+        "Make": "Potty training",
+        "Model": null
+      },{
+        "Category": "Baby and Kids",
+        "Make": "Others - Baby and Kids",
+        "Model": null
+      },{
+        "Category": "Baby and Kids",
+        "Make": "Baby safety",
+        "Model": null
+      },{
+        "Category": "Baby and Kids",
+        "Make": "Strollers",
+        "Model": null
+      },
+
+      {
+        "Category": "Toys, Games and Hobbies",
+        "Make": "Toys",
+        "Model": null
+      },{
+        "Category": "Toys, Games and Hobbies",
+        "Make": "Games and Puzzle",
+        "Model": null
+      },{
+        "Category": "Toys, Games and Hobbies",
+        "Make": "Outdoor toys and games",
+        "Model": null
+      },{
+        "Category": "Toys, Games and Hobbies",
+        "Make": "Stuffed animals and plush",
+        "Model": null
+      },{
+        "Category": "Toys, Games and Hobbies",
+        "Make": "Musical instruments",
+        "Model": null
+      },{
+        "Category": "Toys, Games and Hobbies",
+        "Make": "Other - Toys, Games and Hobbies",
+        "Model": null
+      },
+      
+      
+      {
+        "Category": "Sports and Outdoor",
+        "Make": "Exercise",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Yoga and Plates",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Mixed martial arts and boxing",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Bikes and Cycling",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Skateboarding",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Fishing",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Camping and Hiking",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Water sports",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Ice and snow sports",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Lawn games",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Team sports",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Golf",
+        "Model": null
+      },{
+        "Category": "Sports and Outdoor",
+        "Make": "Others - Sports and Outdoor",
+        "Model": null
+      },
+
+      {
+        "Category": "Collectibles and Art",
+        "Make": "Arts and Crafts supplies",
+        "Model": null
+      },{
+        "Category": "Collectibles and Art",
+        "Make": "Antiques",
+        "Model": null
+      },{
+        "Category": "Collectibles and Art",
+        "Make": "Collectibles",
+        "Model": null
+      },{
+        "Category": "Collectibles and Art",
+        "Make": "Handmade",
+        "Model": null
+      },{
+        "Category": "Collectibles and Art",
+        "Make": "Others - Collectibles and Art",
+        "Model": null
+      },
+
+      {
+        "Category": "Pet supplies",
+        "Make": "Pet collars and leashes",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet clothings, accessories and shoes",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet toys",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet feeding",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet bedding",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet furniture",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet carriers and houses",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet health and wellness",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet Training",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Pet gates and fences",
+        "Model": null
+      },{
+        "Category": "Pet supplies",
+        "Make": "Others - Pet supplies",
+        "Model": null
+      },
+      
+
+      {
+        "Category": "Health and Beauty",
+        "Make": "Others - Health and Beauty",
+        "Model": null
+      },{
+        "Category": "Health and Beauty",
+        "Make": "Hair care",
+        "Model": null
+      },{
+        "Category": "Health and Beauty",
+        "Make": "Bath and Body",
+        "Model": null
+      },{
+        "Category": "Health and Beauty",
+        "Make": "Makeup and cosmetics",
+        "Model": null
+      },{
+        "Category": "Health and Beauty",
+        "Make": "Skincare",
+        "Model": null
+      },{
+        "Category": "Health and Beauty",
+        "Make": "Fragrance",
+        "Model": null
+      },{
+        "Category": "Health and Beauty",
+        "Make": "Personal care",
+        "Model": null
+      },{
+        "Category": "Health and Beauty",
+        "Make": "Tools and accessories",
+        "Model": null
+      },
+      
+      
+      {
+        "Category": "Wedding",
+        "Make": "Jewelry",
+        "Model": null
+      },{
+        "Category": "Wedding",
+        "Make": "Invitations and Paper",
+        "Model": null
+      },{
+        "Category": "Wedding",
+        "Make": "Gifts and Mementos",
+        "Model": null
+      },{
+        "Category": "Wedding",
+        "Make": "Decorations",
+        "Model": null
+      },{
+        "Category": "Wedding",
+        "Make": "Accessories",
+        "Model": null
+      },{
+        "Category": "Wedding",
+        "Make": "Clothing",
+        "Model": null
+      },{
+        "Category": "Wedding",
+        "Make": "Shoes",
+        "Model": null
+      },{
+        "Category": "Wedding",
+        "Make": "Others - Wedding",
+        "Model": null
+      },
+
+
+      {
+        "Category": "Business equipments",
+        "Make": "Others - Business equipments",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Farming and agriculture",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Building materials",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Cleaning and janitorial",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Electrical equipment",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Facility maintenance and Safety",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Fasteners and Hardware",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Restaurant and food service equipments",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Printing and graphic art",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Retail and services",
+        "Model": null
+      },{
+        "Category": "Business equipments",
+        "Make": "Fuel and Energy",
+        "Model": null
+      },{
+        "Category": "General",
+        "Make": "General",
+        "Model": null
+      }
+      
+
+    ]
+  }

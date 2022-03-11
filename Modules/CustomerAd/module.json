@@ -1,0 +1,13 @@
+{
+    "name": "CustomerAd",
+    "alias": "customerad",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CustomerAd\\Providers\\CustomerAdServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

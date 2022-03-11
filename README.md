@@ -1,2 +1,1 @@
-# listnbuy
-listnbuy project
+## Notice
