@@ -187,44 +187,35 @@ class AdPostController extends Controller
             || $request->category_id==6
         ){
 
-        // $ad->vehicleFeatures()->create([
-        //     'vehicle_body_type'=>$request->body_type,
-        //     'vehicle_make'=>$request->brand_id,
-        //     'mileage'=>$request->mileage,
-        //     'transmission_type'=>$request->transmission,
-        //     'fuel_type'=>$request->fuel,
-        //     'title_status'=>$request->title_status,
-        //     'drive'=>$request->drive,
-        //     'vin'=>$request->vin
-        // ]);
         
 
-        $request->session()->put('ad_id', $ad->id);
+            $request->session()->put('ad_id', $ad->id);
 
 
 
+            $video_url = uploadImage($request->video, 'videos');
+            $ad->video()->updateOrCreate([],['video' => $video_url]);
 
-        
-
-        $video_url = uploadImage($request->video, 'videos');
-        $ad->video()->updateOrCreate([],['video' => $video_url]);
-
-        // image uploading
-        $images = $request->file('images');
-        foreach ($images as $key => $image) {
-            if ($key == 0) {
-                $url = uploadImage($image, 'images');
+            // image uploading
+            $images = $request->file('images');
+            foreach ($images as $key => $image) {
+                if ($key == 0) {
+                    $url = uploadImage($image, 'images');
+                }
+                $url = uploadImage($image, 'ad_multiple');
+                $ad->galleries()->create(['image' => $url]);
             }
-            $url = uploadImage($image, 'ad_multiple');
-            $ad->galleries()->create(['image' => $url]);
+
+
+
+            // return view('frontend.postad.postsuccess', [
+            //    'ad_slug' => Str::slug($title),
+            //    'mode' => 'create'
+            // ]);
+
         }
 
-        return view('frontend.postad.postsuccess', [
-           'ad_slug' => Str::slug($title),
-           'mode' => 'create'
-        ]);
-
-        }
+        return 1;
 
     }
 

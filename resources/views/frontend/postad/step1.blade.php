@@ -951,7 +951,7 @@
             </form> -->
 
             <div class="wizard-content">
-                <form class="tab-wizard wizard-circle wizard" enctype="multipart/form-data" id='form' method='post' >
+                <form class="tab-wizard wizard-circle wizard" enctype="multipart/form-data" id='dynamic_form' method='post' >
 
 
                     <h5 style="display:none;"> Basic Info </h5>
@@ -1762,16 +1762,66 @@
             sucessModal.show()
             var $input = $('<input type=hidden name=stripeToken />').val(res.id);
 
-            // show processing message, disable links and buttons until form is submitted and reloads
-            $('a').bind("click", function() { return false; });
-            $('button').addClass('disabled');
-            $('.overlay-container').show();
+            // // show processing message, disable links and buttons until form is submitted and reloads
+            // $('a').bind("click", function() { return false; });
+            // $('button').addClass('disabled');
+            // $('.overlay-container').show();
 
-            // submit form
-            // $('.form-stripe').append($input).submit();
-            $('#form').submit();
-            $('#form_id').trigger("reset");
+            // // submit form
+            // // $('.form-stripe').append($input).submit();
+            // $('#form_id').trigger("reset");
+            $('#dynamic_form').submit();
         };
+
+        $(document).ready(function (e) {
+
+            $('#dynamic_form').on('submit',(function(e) {
+
+                e.preventDefault();
+
+                var data = new FormData(this);
+
+                console.log(data);
+
+                $.ajax({
+
+                    type:'POST',
+
+                    url: '{{ route('frontend.post.store') }}',
+
+                    data:new FormData(this),
+
+                    contentType: false,
+
+                    cache: false, 
+
+                    processData: false,
+
+                    success:function(data){
+
+                        console.log("success");
+                        if (data == 1) {
+                        }
+
+                        // myData=JSON.parse(data);
+
+                    },
+
+                    error: function(data){
+
+                        console.log("error");
+
+                        console.log(data);
+
+                    }
+
+                });
+
+                
+
+            }));
+
+        });
 
         function selectSubscriptionPlan(plan_id, display_price) {
             selectedSubscriptionPlan = display_price;
